@@ -1,0 +1,43 @@
+000 -> NULL
+
+///////////////// Multiplayer Settings
+
+1** -> INFO
+100 -> new player connected
+110 -> accepted
+111 -> not accepted
+120 -> ready
+121 -> not ready
+
+2** -> GET
+210 -> get available colors
+220 -> get users
+230 -> get map
+
+3** -> CHECK
+310 -> check username
+
+4** -> SET
+410 -> set color
+420 -> set users
+430 -> set map
+
+5** -> ERROR
+510 -> game lobby is full
+520 -> username is already taken
+
+6** -> CHANGE
+620 -> users changed
+
+///////////////// Game
+
+7** -> TO CLIENTS
+700 -> start game (includes 710)
+710 -> update game status
+720 -> end game & winner
+
+
+8** -> TO SERVER
+810 -> update game status
+
+

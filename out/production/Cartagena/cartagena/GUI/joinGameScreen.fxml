@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cartagena.GUI.JoinGameScreen">
+    <children>
+        <ImageView fx:id="f_iv1" fitHeight="68.0" fitWidth="85.0" layoutX="631.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv2" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv3" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv4" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv5" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv6" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv7" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv8" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv9" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv10" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv11" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv12" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv13" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv14" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv15" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv16" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv17" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv18" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv19" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv20" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv21" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv22" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv23" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv24" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv25" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv26" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv27" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv28" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv29" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv30" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv31" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv32" fitHeight="68.0" fitWidth="85.0" layoutX="38.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv33" fitHeight="68.0" fitWidth="85.0" layoutX="133.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv34" fitHeight="68.0" fitWidth="85.0" layoutX="227.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv35" fitHeight="68.0" fitWidth="85.0" layoutX="320.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv36" fitHeight="68.0" fitWidth="85.0" layoutX="417.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv37" fitHeight="68.0" fitWidth="85.0" layoutX="525.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <ImageView fx:id="f_iv38" fitHeight="68.0" fitWidth="85.0" layoutX="624.0" layoutY="465.0" pickOnBounds="true" preserveRatio="true">
+        </ImageView>
+        <Button fx:id="f_b_ready" layoutX="786.0" layoutY="400.0" mnemonicParsing="false" onAction="#readyGameButton" text="Ready" />
+        <CheckBox fx:id="f_p1_cb" disable="true" layoutX="744.0" layoutY="159.0" mnemonicParsing="false" selected="true" />
+        <ImageView fx:id="f_p1_color" fitHeight="27.0" fitWidth="33.0" layoutX="777.0" layoutY="159.0" pickOnBounds="true" preserveRatio="true" />
+        <Label fx:id="f_p1_name" layoutX="824.0" layoutY="159.0" text="Player 1" />
+        <CheckBox fx:id="f_p2_cb" disable="true" layoutX="744.0" layoutY="198.0" mnemonicParsing="false" />
+        <ImageView fx:id="f_p2_color" fitHeight="27.0" fitWidth="33.0" layoutX="777.0" layoutY="198.0" pickOnBounds="true" preserveRatio="true" />
+        <Label fx:id="f_p2_name" layoutX="824.0" layoutY="198.0" text="Player 2" />
+        <CheckBox fx:id="f_p3_cb" disable="true" layoutX="744.0" layoutY="234.0" mnemonicParsing="false" />
+        <ImageView fx:id="f_p3_color" fitHeight="27.0" fitWidth="33.0" layoutX="777.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true" />
+        <Label fx:id="f_p3_name" layoutX="824.0" layoutY="234.0" text="Player 3" />
+        <CheckBox fx:id="f_p4_cb" disable="true" layoutX="744.0" layoutY="272.0" mnemonicParsing="false" />
+        <ImageView fx:id="f_p4_color" fitHeight="27.0" fitWidth="33.0" layoutX="777.0" layoutY="272.0" pickOnBounds="true" preserveRatio="true" />
+        <Label fx:id="f_p4_name" layoutX="824.0" layoutY="272.0" text="Player 4" />
+        <CheckBox fx:id="f_p5_cb" disable="true" layoutX="744.0" layoutY="309.0" mnemonicParsing="false" />
+        <ImageView fx:id="f_p5_color" fitHeight="27.0" fitWidth="33.0" layoutX="777.0" layoutY="309.0" pickOnBounds="true" preserveRatio="true" />
+        <Label fx:id="f_p5_name" layoutX="824.0" layoutY="309.0" text="Player 5" />
+        <Label fx:id="f_IP_label" layoutX="753.0" layoutY="97.0" text="IP" />
+        <Label fx:id="f_Port_label" layoutX="753.0" layoutY="124.0" text="Port" />
+      <Button fx:id="refresh" layoutX="908.0" layoutY="547.0" mnemonicParsing="false" onAction="#refreshButton" text="Refresh" visible="false" />
+
+    </children>
+</AnchorPane>
